@@ -82,3 +82,13 @@ Books about Golang, Docker, Clean Code,  Nodejs, Microservices, REST, React, TDD
 | tdd + bdd 			                        | tdd-ebook-sample.pdf 			                                                  |
 | vim+tmux 			                         | tmux-taster-2014.pdf 			                                                  |
 | vim+tmux 			                         | pro-vim-2014.pdf 			                                                      |
+|linux                                   |Linux Bible.pdf 
+|linux                                   |Linux Pocket.pdf                                                              |
+|elasticsearch                           |elasticsearch.pdf                                                             |
+|express                                 |Learning Single-page Web Application Development.pdf                          | 
+|express                                 |Mastering Web Application Development with Express.pdf                          | 
+|express                                 |Pro Express.js.pdf                         | 
+|express                                 |Pro REST API Development with Node.js.pdf                         | 
+|express                                 |RESTful Web API Design with Node.js.pdf                        | 
+|express                                 |Web Development with Node and Express.pdf                        | 
+|express                                 |express-in-action.pdf                        | 
